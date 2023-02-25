@@ -5,7 +5,7 @@ Contact Me
 <a href="reza.mahmoudi.mehran@gmail.com">
   Email
 </a>
-<a href="reza.mahmoudi.mehran@gmail.com](https://www.linkedin.com/in/reza-mahmoudi-mehran-7012a0153">
+<a href="https://www.linkedin.com/in/reza-mahmoudi-mehran-7012a0153">
   LinkedIn
 </a>
 
